@@ -3,6 +3,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.gitattributes
 
 ### IntelliJ IDEA ###
 .idea/*
@@ -12,5 +13,3 @@ target/
 .mvn
 mvnw
 mvnw.cmd
-
-.gitattributes
